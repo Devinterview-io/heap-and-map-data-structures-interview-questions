@@ -4,7 +4,7 @@
 
 Check out our carefully selected list of **basic** and **advanced** Heaps & Maps questions and answers to be well-prepared for your tech interviews in 2024.
 
-![Heaps & Maps Decorative Image](https://storage.googleapis.com/dev-stack-app.appspot.com/blogImg/heapsAndMaps.png?GoogleAccessId=firebase-adminsdk-bgeaf%40dev-stack-app.iam.gserviceaccount.com&Expires=1698606026&Signature=BR45PrOwWx4Zue34%2F0SpPZijcybZISGI6%2FgURnzefXk5QVyyKznFJKQj7Py7y%2B228zcLI5UU4KaLTZwH08Cb7hFf26voXcch76GPGBVVNJr5F46OLQ%2Fj9IPNKEHmyaQqgzMEpWYHsjp2q2PwlibYYvRBwr5peYxQm7M7csKXqF7Idn2LxMt8AbyQU4RnY2UVxXvX7PPhUh%2Fxs42wirjzlnllGuEM29s4LVDNx4RFN9TQiekHLO8l0ph%2FEAsGNd1z%2BEzQy60D%2FkoF6%2B0cq0tx7b4Sy7NqLjthLCwqiT1CKDQATB3PEiiWCAbDhpIYNd06f2eKJVyRgj9IoyuWlVYzgg%3D%3D)
+![Heaps & Maps Decorative Image](https://firebasestorage.googleapis.com/v0/b/dev-stack-app.appspot.com/o/blogImg%2FheapsAndMaps.png?alt=media&token=c94b4921-a664-4492-8fe5-08b28a8e971c&_gl=1*lmh08h*_ga*OTYzMjY5NTkwLjE2ODg4NDM4Njg.*_ga_CW55HF8NVT*MTY5ODYwNTk1NS4xOTAuMS4xNjk4NjA3MTg2LjIzLjAuMA..)
 
 👉🏼 You can also find all answers here: [Devinterview.io - Heaps & Maps](https://devinterview.io/data/heapsAndMaps-interview-questions)
 
